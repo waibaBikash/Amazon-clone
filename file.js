@@ -12,7 +12,6 @@ function changeSlide(){
   imgs[n].style.display = 'block' ;
 }
 
-
 prev_btn.addEventListener('click', (e) => {
   if(n > 0){
     n--;
