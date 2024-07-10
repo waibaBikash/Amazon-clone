@@ -79,3 +79,8 @@ nav{
 .nav-text h2{
   font-size: 14px;
 }
+.nav-cart{
+  display: flex;
+  align-items: center;
+  margin: 0px 15px;
+}
