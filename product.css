@@ -169,3 +169,31 @@ body{
   background: #efefef;
   border-color: #c1c1c1;
 }
+.product-d-purchase .btn{
+   outline: none;
+   border: none;
+   background: #ffd814;
+   width: 100%;
+   padding: 10px 0;
+   margin-top: 10px;
+   border-radius: 50px;
+   cursor: pointer;
+}
+.product-d-purchase .product-buy{
+  background: #ffa41c;
+}
+.product-sellor-info{
+  margin-top: 10px;
+   display: grid;
+   grid-template-columns: auto auto;
+   gap: 4px;
+   font-size: 14px;
+   color: #565656;
+   
+}
+.product-sellor-info span{
+   color: #007185;
+}
+.product-d-purchase hr{
+
+}
