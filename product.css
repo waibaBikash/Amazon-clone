@@ -129,7 +129,7 @@ body{
   max-width: 280px;
   border: 1px solid #c1c1c1;
   border-radius: 10px;
-  padding: 20xp;
+  padding: 20px;
 }
 .product-d-purchase .title{
   display: flex;
@@ -144,4 +144,28 @@ body{
 .product-d-purchase .price span{
   font-size: 26px;
   padding: 2px;
+}
+.product-d-purchase .gap{
+  margin: 15px 0;
+}
+.product-d-purchase p span{
+  color: #007185;
+}
+.delivey-location{
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.product-stock{
+  margin: 15px 0;
+  color: green;
+  font-weight: 400;
+}
+.product-quantity{
+  padding: 8px 5px;
+  outline: none;
+  width: 100%;
+  border-radius: 5px;
+  background: #efefef;
+  border-color: #c1c1c1;
 }
