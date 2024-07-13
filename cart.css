@@ -116,3 +116,6 @@
   border-radius: 8px;
   cursor: pointer;
 }
+.cart-right button:hover{
+  background: #ebc712;
+}
