@@ -119,3 +119,6 @@
 .cart-right button:hover{
   background: #ebc712;
 }
+.footer-cart{
+  margin: 50px;
+}
