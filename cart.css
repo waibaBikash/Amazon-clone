@@ -81,5 +81,10 @@
 .cart-list-action select{
   padding: 5px;
   border-radius: 6px;
-  background: ;
+  background: #f3f3f3;
+}
+.cart-list-subtotal{
+   text-align: right;
+   font-size: 20px;
+   margin-top: 10px;
 }
