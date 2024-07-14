@@ -276,4 +276,9 @@ footer{
   .nav-cart img{
     width: 25px;
   }
+  .header-slider a{
+     top: 24%;
+     padding: 2vh 1vw;
+     font-size: 15px;
+  }
 }
