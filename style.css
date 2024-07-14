@@ -251,4 +251,15 @@ footer{
   .nav-text{
     display: none;
   }
+  .nav-bottom{
+    font-size: 13px;
+    gap: 10px;
+    overflow-x: scroll;
+  }
+  .nav-bottom::-webkit-scrollbar{
+     display: none;
+  }
+  .nav-bottom p{
+    text-wrap: nowrap;
+  }
 }
