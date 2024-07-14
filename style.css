@@ -273,4 +273,7 @@ footer{
   .nav-cart h4{
     display: none;
   }
+  .nav-cart img{
+    width: 25px;
+  }
 }
