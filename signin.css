@@ -6,3 +6,9 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+body{
+   background: white;
+   text-align: center;
+   font-family: "Poppins", sans-serif;
+   min-height: 100vh;
+}
