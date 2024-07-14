@@ -78,5 +78,23 @@ body{
 }
 .signin-business{
    font-size: 13px;
-   
+
+}
+.signin-buttom{
+  max-width: 350px;
+  font-size: 13px;
+  color: #737373;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.signin-buttom hr{
+  border: none;
+  height: 1px;
+  background: #d4d4d4;
+  width: 100px;
+
+
 }
