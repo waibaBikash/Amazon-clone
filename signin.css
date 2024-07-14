@@ -102,7 +102,10 @@ body{
    width: 350px;
    height: 30px;
    font-size: 13px;
-   background: #c2f2ff;
+   background: #fff;
    border-radius: 5px;
    border: 1px solid #c3c3c3;
+}
+.btn-create-account:hover{
+   background: #f1f1f1;
 }
