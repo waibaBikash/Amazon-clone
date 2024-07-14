@@ -241,3 +241,14 @@ footer{
     max-width: 48%;
   }
 }
+@media only screen and (max-width: 600px) {
+  .nav-country{
+    display: none;
+  }
+  .nav-language{
+    display: none;
+  }
+  .nav-text{
+    display: none;
+  }
+}
