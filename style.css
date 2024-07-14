@@ -281,4 +281,8 @@ footer{
      padding: 2vh 1vw;
      font-size: 15px;
   }
+  .box-col{
+    max-width: 100%;
+    width: 100%;
+  }
 }
