@@ -237,4 +237,7 @@ footer{
     margin: 15px 0 5px;
     min-width: 300px;
   }
+  .box-col{
+    max-width: 48%;
+  }
 }
