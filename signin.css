@@ -81,7 +81,7 @@ body{
 
 }
 .signin-buttom{
-  max-width: 350px;
+  width: 350px;
   font-size: 13px;
   color: #737373;
   margin: 20px auto;
@@ -97,4 +97,12 @@ body{
   width: 100px;
 
 
+}
+.btn-create-account{
+   width: 350px;
+   height: 30px;
+   font-size: 13px;
+   background: #c2f2ff;
+   border-radius: 5px;
+   border: 1px solid #c3c3c3;
 }
