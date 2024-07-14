@@ -105,3 +105,15 @@ body{
 .btn-create-account:hover{
    background: #f1f1f1;
 }
+footer{
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  margin-top: 20px;
+  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  background: linear-gradient(to bottom, #f4f4f4, #fff);
+  border-radius: 1px solid #ededed;
+  font-size: 12pz;
+}
