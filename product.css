@@ -224,4 +224,10 @@ body{
     width: 100%;
     padding: 20px;
   }
+  .option{
+      padding: 6px 8px;
+  }
+  .option p{
+    display: none;
+  }
 }
