@@ -135,4 +135,8 @@
   .product-cart-list img{
     width: 80px;
   }
+  .product-cart-titleprice{
+    flex-wrap: wrap;
+    font-size: 14px;
+  }
 }
