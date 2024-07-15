@@ -220,4 +220,8 @@ body{
   .product-icons{
     display: none;
   }
+  .product-main-image img{ 
+    width: 100%;
+    padding: 20px;
+  }
 }
