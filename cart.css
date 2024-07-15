@@ -139,4 +139,19 @@
     flex-wrap: wrap;
     font-size: 14px;
   }
+  .product-cart-delivery{
+    font-size: 13px;
+  }
+  .cart-list-action .action-btn:nth-last-child(1){
+     display: none;
+  }
+  .cart-list-action .action-btn:nth-last-child(2){
+     display: none;
+  }
+  .cart-list-action .action-btn:nth-last-child(3){
+     display: none;
+  }
+  .cart-list-action .action-btn:nth-last-child(4){
+     display: none;
+  }
 }
