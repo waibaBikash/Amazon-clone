@@ -128,3 +128,11 @@
     flex-wrap: wrap;
    }
 }
+@media only screen and (max-width: 600px){
+  .product-cart-list{
+     padding: 24px 0;
+  }
+  .product-cart-list img{
+    width: 80px;
+  }
+}
