@@ -230,4 +230,8 @@ body{
   .option p{
     display: none;
   }
+  .product-d-purchase{
+    max-width: 90%;
+    margin: 20px auto 10px;
+  }
 }
