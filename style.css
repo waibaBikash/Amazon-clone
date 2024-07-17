@@ -225,7 +225,6 @@ footer{
 }
 
 /* media query  */
-
 @media only screen and (max-width: 900px) {
   nav{
     flex-wrap: wrap;
